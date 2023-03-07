@@ -11,7 +11,6 @@ Select reasonable values for ω_1, ω_2 and any required parameters.</br></br>
   <li>	Perform demodulation three times with phase shifts of 10, 30, 90 degrees for both carriers.
   <li>For x_1 (t), perform demodulation two times with a local carrier frequency that is different by 2 Hz and 10 Hz from its carrier frequency.
 </ol>
-</br>
 	
-### You can find the detailed explanation in the report.pdf or report.docs files</br></br>
+### You can find the detailed explanation in the report.pdf or report.docx files</br></br>
 
